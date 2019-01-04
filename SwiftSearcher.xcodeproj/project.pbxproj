@@ -22,6 +22,10 @@
 		5C73B20C21DF689B007D520A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C73B20F21DF689B007D520A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C73B21121DF689B007D520A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C73B21721DF879D007D520A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5C73B21921DF8A5D007D520A /* 3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpeg; sourceTree = "<group>"; };
+		5C73B21A21DF8A5D007D520A /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
+		5C73B21B21DF8A5E007D520A /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +42,8 @@
 		5C73B1F921DF689A007D520A = {
 			isa = PBXGroup;
 			children = (
+				5C73B21821DF87B2007D520A /* screens */,
+				5C73B21721DF879D007D520A /* README.md */,
 				5C73B20421DF689A007D520A /* SwiftSearcher */,
 				5C73B20321DF689A007D520A /* Products */,
 			);
@@ -62,6 +68,16 @@
 				5C73B21121DF689B007D520A /* Info.plist */,
 			);
 			path = SwiftSearcher;
+			sourceTree = "<group>";
+		};
+		5C73B21821DF87B2007D520A /* screens */ = {
+			isa = PBXGroup;
+			children = (
+				5C73B21B21DF8A5E007D520A /* 1.jpeg */,
+				5C73B21A21DF8A5D007D520A /* 2.jpeg */,
+				5C73B21921DF8A5D007D520A /* 3.jpeg */,
+			);
+			path = screens;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
