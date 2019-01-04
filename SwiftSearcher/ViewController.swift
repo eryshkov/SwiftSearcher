@@ -55,7 +55,7 @@ class ViewController: UITableViewController {
         
         let project = projects[indexPath.row]
         
-        cell.textLabel?.text = "\(project[0]): \(project[1])"
+        cell.textLabel?.attributedText = makeAttributedString(title: project[0], subtitle: project[1])
         
         return cell
     }
