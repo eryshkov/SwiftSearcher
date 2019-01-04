@@ -1,8 +1,9 @@
 #  SwiftSearcher
 
 <div align = "center">
-<img src="/screens/1.jpeg" width="40%">        
-<img src="/screens/2.jpeg" width="40%">      
+<img src="/screens/1.jpeg" width="30%">        
+<img src="/screens/2.jpeg" width="30%">      
+<img src="/screens/3.jpeg" width="30%">   
 </div>
 
 <p align="center">
@@ -13,10 +14,10 @@
 <img src="https://img.shields.io/badge/licence-MIT-lightgray.svg" alt="Licence MIT"/>
 </p>
 
-[Demo video here](https://youtu.be/O6J8538RveU)
+[Demo video here](https://youtu.be/CwtlFuzCLSI)
 
 ## Main functionality
-* simple presentation app with spot light engine
+* simple presentation app with spotlight engine
 * uses `SFSafariViewController`
 * uses  `NSAttributedString`
 * uses `CoreSpotlight` & `MobileCoreServices`
